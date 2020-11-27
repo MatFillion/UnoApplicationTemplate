@@ -1,4 +1,4 @@
-﻿# Uno Application Template
+﻿fdsfsdfsd# Uno Application Template
 
 This is a mobile app project template using [Uno](https://github.com/unoplatform/uno) and the latest .NET practices.
 
